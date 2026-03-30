@@ -10,7 +10,7 @@
   <img src="Screenshot.png" alt="NetSniffer Screenshot" width="900"/>
 </p>
 
-NetSniffer is a sleek, dark-themed Windows desktop application that monitors all active network connections in real time — TCP, UDP, listening ports, and remote endpoints — with colour-coded risk assessment and per-process detail.
+NetSniffer is a sleek, dark-themed Windows desktop application that monitors all active network connections in real time, TCP, UDP, listening ports, and remote endpoints — with colour-coded risk assessment and per-process detail.
 
 ---
 
